@@ -2,10 +2,7 @@
 
 # 👋 Hi, I’m @SherwinVN! Lê Văn Trung - Sherwin(VN) xin chào <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-Là một lập trình viên ứng dụng trên nhiều nền tảng, nhận các dự án từ các công ty cần phần mềm theo yêu cầu nghiệp vụ của công ty, doanh nghiệp. Xây dựng các hệ thống dữ liệu tập trung, tư vấn hỗ trợ xây dựng mô hình phù hợp nhất, đáp ứng được nghiệp vụ quản lý của công ty.
-
-Ngoài ra, mình có nhận thêm thiết kế website, logo xây dựng môi trường maketing online cho công ty doanh nghiệp. Hỗ trợ tư vấn sửa chửa và cài đặt máy tính, máy in, các loại máy văn phòng.
-Appearance is an essential topic and when it comes to websites or apps, the importance is multiplied. In my opinion, if a company's app or website looks good, it can help them succeed in that business and more customers would rely on it. This was the motivation for me to become interested in web and Android application design. Now I am a Professional front-end developer.
+Giao diện là một chủ đề quan trọng, đặc biệt là khi nói đến trang web hoặc ứng dụng, với tầm quan trọng tăng lên nhiều lần. Theo quan điểm của tôi, nếu ứng dụng hoặc trang web của một công ty có vẻ đẹp, điều này có thể giúp họ thành công trong kinh doanh và thu hút được nhiều khách hàng hơn. Điều này đã là động lực cho tôi để quan tâm và nghiên cứu về thiết kế web và ứng dụng. Hiện tại, tôi là một chuyên gia phát triển front-end vs back-end.
 
 <a href="mailto:levantrungeale28595@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://facebook.com/mr.leetrung"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
@@ -17,8 +14,13 @@ Appearance is an essential topic and when it comes to websites or apps, the impo
 
 - ❤️ I love writing apps and building interesting experiments at all levels
 
-- 💬 Ask me about anything [here]([https://github.com/sinashahoveisi/sinashahoveisi/issues](https://github.com/SherwinVN/SherwinVN/issues))
+- 💬 Ask me about anything [here]([https://github.com/SherwinVN/SherwinVN/issues](https://github.com/SherwinVN/SherwinVN/issues))
 
+- Là một lập trình viên ứng dụng trên nhiều nền tảng, nhận các dự án từ các công ty cần phần mềm theo yêu cầu nghiệp vụ của công ty, doanh nghiệp.
+  
+- Xây dựng các hệ thống dữ liệu tập trung, tư vấn hỗ trợ xây dựng mô hình phù hợp nhất, đáp ứng được nghiệp vụ quản lý của công ty.
+
+- Hỗ trợ tư vấn sửa chửa và cài đặt máy tính, máy in, các loại máy văn phòng.
 ### 🛠️ Technologies
 [![My Skills](https://skillicons.dev/icons?i=ai,github,git,flutter,css,c,cs,bootstrap,figma,gitlab,html,instagramphp,js,react,nodejs,nginx,mysql,mongodb)](https://vantrungit.com)
 
