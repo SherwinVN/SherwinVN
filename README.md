@@ -34,9 +34,10 @@ Giao diện là một chủ đề quan trọng, đặc biệt là khi nói đế
 ### 💻 GitHub Profile Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SherwinVN Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SherwinVN&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=F85D7F" height="192px"/></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SherwinVN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinVN&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=F85D7F&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SherwinVN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinVN&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=F85D7F&hide=Jupyter%20Notebook" height="200px"/></a>
 
-### 📝 My Latest Blog Post in Medium
+### 📝 Sản phẩm
 - <a target="_blank" href="https://congdongweb.com"><img src="https://www.congdongweb.com/wp-content/uploads/2023/07/logo-congdongweb.png" alt="Cộng Đồng Web"  width="100"></a>
 - <a target="_blank" href="https://congdongtheme.com"><img src="https://congdongtheme.com/wp-content/uploads/2023/09/CDTHEME.png" alt="Cộng Đồng Theme" width="100"></a>
 - <a target="_blank" href="https://congdongblog.com"><img src="https://congdongblog.com/wp-content/uploads/2021/02/logo-cong-dong-blog.png" alt="Cộng Đồng Blog"  width="100"></a>
+- <a target="_blank" href="https://vantrungit.com"><img src="https://vantrungit.com/wp-content/uploads/2021/08/logo-sherwin-e1631600697606.png" alt="Văn Trung IT"  width="100"></a>
