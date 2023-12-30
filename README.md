@@ -1,4 +1,4 @@
-<p align="center"><a href="https://vantrungit.com  /"><img width="80%" alt="Hello, I'm SinaShahoveisi. I do open source!" src="https://vantrungit.com/wp-content/uploads/2021/08/background-sherwin.jpg" /></a></p>
+<p align="center"><a href="https://vantrungit.com  /"><img width="80%" alt="👋 Hi, I’m @SherwinVN! Lê Văn Trung - Sherwin(VN) xin chào" src="https://vantrungit.com/wp-content/uploads/2021/08/background-sherwin.jpg" /></a></p>
 
 # 👋 Hi, I’m @SherwinVN! Lê Văn Trung - Sherwin(VN) xin chào <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
