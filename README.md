@@ -5,7 +5,7 @@
 Giao diện là một chủ đề quan trọng, đặc biệt là khi nói đến trang web hoặc ứng dụng, với tầm quan trọng tăng lên nhiều lần. Theo quan điểm của tôi, nếu ứng dụng hoặc trang web của một công ty có vẻ đẹp, điều này có thể giúp họ thành công trong kinh doanh và thu hút được nhiều khách hàng hơn. Điều này đã là động lực cho tôi để quan tâm và nghiên cứu về thiết kế web và ứng dụng. Hiện tại, tôi là một chuyên gia phát triển front-end vs back-end.
 
 <a href="mailto:levantrungeale28595@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
-<a href="https://facebook.com/mr.leetrung"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<a href="https://facebook.com/mr.leetrung"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" height=30></a>
 <br/>
 
 **Thông tin của tôi**
